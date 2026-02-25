@@ -9,7 +9,7 @@ keywords: [docusaurus, 建站, 靜態網站, 技術部落格, 文件網站, reac
 
 記錄使用 Docusaurus 建立技術部落格和文件網站的完整過程，包含初始化、配置和部署。
 
-## 🚀 快速開始
+## 快速開始
 
 ### 環境準備
 
@@ -37,7 +37,7 @@ npm start
 
 專案將在 `http://localhost:3000` 啟動。
 
-## ⚙️ 基本配置
+## 基本配置
 
 ### 網站資訊設定
 
@@ -111,7 +111,7 @@ const sidebars: SidebarsConfig = {
 };
 ```
 
-## 📝 內容管理
+## 內容管理
 
 ### 文件結構
 
@@ -170,7 +170,7 @@ tags: [react, frontend]   # 標籤（在 tags.yml 中定義）
 }
 ```
 
-## 🎨 主題客製化
+## 主題客製化
 
 ### 自訂 CSS
 
@@ -210,7 +210,7 @@ export default function CustomComponent() {
 }
 ```
 
-## 🚀 部署流程
+## 部署流程
 
 ### GitHub Pages 部署
 
@@ -242,7 +242,7 @@ npm run deploy
 - **Netlify**: 拖拽部署或 Git 整合
 - **自託管**: 使用 `npm run build` 生成靜態檔案
 
-## 🔧 進階功能
+## 進階功能
 
 ### 搜尋功能
 
@@ -280,7 +280,7 @@ npm run docusaurus docs:version 1.0.0
 npm install @docusaurus/plugin-pwa
 ```
 
-## 📚 實用技巧
+## 實用技巧
 
 ### 1. 內容組織
 - 使用清晰的資料夾結構

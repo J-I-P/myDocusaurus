@@ -9,7 +9,7 @@ keywords: [git, 版本控制, 工作流程, 分支管理, 團隊協作, 開發�
 
 整理日常開發中 Git 的使用技巧和最佳實踐，幫助建立高效的版本控制工作流程。
 
-## 🚀 基本工作流程
+## 基本工作流程
 
 ### 日常開發循環
 
@@ -56,7 +56,7 @@ refactor/database-optimization
 refactor/component-structure
 ```
 
-## 📝 提交訊息規範
+## 提交訊息規範
 
 ### Conventional Commits 格式
 
@@ -110,7 +110,7 @@ feat(blog): add comment system
 Closes #123
 ```
 
-## 🌿 分支管理策略
+## 分支管理策略
 
 ### Git Flow
 
@@ -143,7 +143,7 @@ feature/*      # 功能分支（從 main 分出，合併回 main）
 - **大團隊/企業專案**: Git Flow
 - **開源專案**: Forking Workflow
 
-## 🔧 實用 Git 技巧
+## 實用 Git 技巧
 
 ### 提交歷史整理
 
@@ -219,7 +219,7 @@ git reset --hard HEAD~1
 git revert commit-hash
 ```
 
-## 🛡️ Git 安全實踐
+## Git 安全實踐
 
 ### .gitignore 最佳實踐
 
@@ -278,7 +278,7 @@ npm install --save-dev husky
 npx husky add .husky/pre-commit "npm test && npm run lint"
 ```
 
-## 🤝 團隊協作
+## 團隊協作
 
 ### Pull Request 最佳實踐
 
@@ -317,7 +317,7 @@ git add file.txt
 git commit
 ```
 
-## 📊 Git 別名設定
+## Git 別名設定
 
 在 `~/.gitconfig` 中添加實用別名：
 
@@ -343,7 +343,7 @@ git commit
     undo = reset HEAD~1 --mixed
 ```
 
-## 🎯 總結
+## 總結
 
 ### 核心原則
 

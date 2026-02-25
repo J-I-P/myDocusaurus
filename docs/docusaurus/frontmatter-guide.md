@@ -9,9 +9,9 @@ keywords: [docusaurus, frontmatter, metadata, seo, 文檔配置]
 
 記錄 Docusaurus 中各種 frontmatter 欄位的實際效果和使用技巧，避免踩坑。
 
-## 📋 Docs vs Blog 支援差異
+## Docs vs Blog 支援差異
 
-### 🔍 實測發現
+### 實測發現
 
 經過實際測試，發現 Docusaurus 中 **docs** 和 **blog** 對 frontmatter 的支援不完全相同：
 
@@ -25,7 +25,7 @@ keywords: [docusaurus, frontmatter, metadata, seo, 文檔配置]
 | `sidebar_position` | ✅ | ❌ | 側邊欄排序 |
 | `hide_title` | ✅ | ✅ | 隱藏自動生成的標題 |
 
-## 📝 Docs 專用 Frontmatter
+## Docs 專用 Frontmatter
 
 ### 基本配置
 
@@ -90,7 +90,7 @@ tags: [frontend, react]  # 無效果
 - **替代**: 使用資料夾結構組織內容
 - **注意**: Blog 中 tags 完全正常
 
-## 📖 Blog 專用 Frontmatter
+## Blog 專用 Frontmatter
 
 ### 基本配置
 
@@ -133,7 +133,7 @@ authors: [ypin, guest-author]
 - **配置**: 需要在 `blog/authors.yml` 中定義作者
 - **功能**: 支援多作者協作
 
-## 🎯 最佳實踐
+## 最佳實踐
 
 ### SEO 優化建議
 
@@ -181,7 +181,7 @@ sidebar_position: 2           # 排序位置
 ---
 ```
 
-## 🚨 常見問題
+## 常見問題
 
 ### Q: 為什麼 `hide_title: true` 沒有效果？
 
@@ -231,7 +231,7 @@ docs/
 - [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
 - [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 
-## 📚 參考資源
+## 參考資源
 
 ### 官方文檔
 - [Docusaurus Docs Plugin API](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs)
