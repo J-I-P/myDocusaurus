@@ -1,0 +1,8 @@
+{
+  "label": "Docusaurus",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Docusaurus 靜態網站生成器完整指南，從建站到部署的全流程教學。"
+  }
+}

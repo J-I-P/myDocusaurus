@@ -8,21 +8,36 @@ sidebar_position: 1
 
 ## 文件內容
 
-### 主要分類
+### 技術專區
 
-- **[前端開發](./frontend/intro)** - React、Vue、JavaScript 相關技術
-- **[後端開發](./backend/intro)** - Node.js、Python、資料庫設計
-- **[開發工具](./tools/intro)** - Git、VS Code、構建工具配置
-- **[學習筆記](./learning-notes/intro)** - 技術學習心得與總結
-- **[專案經驗](./projects/intro)** - 實際專案開發記錄
+#### 前端技術
+- **[React](./react/intro)** - React 框架與生態系統
+- **[JavaScript](./javascript/intro)** - JavaScript 核心技術 *(即將推出)*
+- **[TypeScript](./typescript/intro)** - 類型安全的 JavaScript *(即將推出)*
+
+#### 後端技術
+- **[Node.js](./nodejs/intro)** - JavaScript 伺服器端開發 *(即將推出)*
+- **[Python](./python/intro)** - Python 程式設計 *(即將推出)*
+
+#### 開發工具
+- **[Git](./git/intro)** - 版本控制系統
+- **[GitHub](./github/intro)** - 代碼託管平台 *(即將推出)*
+- **[Docker](./docker/intro)** - 容器化技術 *(即將推出)*
+
+#### 建站技術
+- **[Docusaurus](./docusaurus/intro)** - 靜態網站生成器
+- **[Web Development](./web-dev/intro)** - Web 開發通用技術 *(即將推出)*
+
+#### 雲端服務
+- **[AWS](./aws/intro)** - 亞馬遜雲端服務 *(即將推出)*
 
 ### 快速開始
 
 如果你是第一次造訪，建議從以下內容開始：
 
-1. **[Docusaurus 建站筆記](./learning-notes/docusaurus-setup)** - 記錄本站的建設過程
-2. **[開發工具介紹](./tools/intro)** - 開發環境設置指南
-3. **[Git 工作流程](./tools/git-workflow)** - Git 使用最佳實踐
+1. **[Docusaurus 建站完整指南](./docusaurus/setup-guide)** - 記錄本站的建設過程
+2. **[React Hooks 指南](./react/hooks-guide)** - 現代 React 開發核心技術
+3. **[Git 工作流程最佳實踐](./git/workflow)** - 版本控制必備技能
 
 ### 如何使用
 

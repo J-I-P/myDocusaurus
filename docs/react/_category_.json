@@ -1,0 +1,8 @@
+{
+  "label": "React",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "React 前端框架技術指南，包含 Hooks、組件設計模式、狀態管理和性能優化等核心概念。"
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "label": "前端開發",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "前端開發相關技術文件，包含 React、Vue、JavaScript 等現代前端技術的學習筆記和實作經驗。"
-  }
-}

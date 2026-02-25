@@ -1,8 +1,0 @@
-{
-  "label": "開發工具",
-  "position": 4,
-  "link": {
-    "type": "generated-index",
-    "description": "開發工具配置與使用指南，包含編輯器設置、版本控制、構建工具等提升開發效率的工具。"
-  }
-}

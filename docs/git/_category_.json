@@ -1,0 +1,8 @@
+{
+  "label": "Git",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Git 版本控制系統完整指南，包含基本操作、分支管理、工作流程和團隊協作最佳實踐。"
+  }
+}
