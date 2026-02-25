@@ -13,6 +13,16 @@ docusaurus:
   permalink: /docusaurus
   description: Docusaurus tag description
 
+tech-notes:
+  label: 技術筆記
+  permalink: /tech-notes
+  description: 記錄技術學習和實作心得
+
+website-journal:
+  label: 建站日誌
+  permalink: /website-journal
+  description: 網站建設過程與經驗分享
+
 hola:
   label: Hola
   permalink: /hola
