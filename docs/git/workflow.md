@@ -1,6 +1,5 @@
 ---
 sidebar_position: 2
-tags: [tools, git, workflow, collaboration]
 ---
 
 # Git 工作流程最佳實踐

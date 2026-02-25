@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-tags: [frontend, react, framework]
 ---
 
 # React 技術專區

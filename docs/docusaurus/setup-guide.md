@@ -1,6 +1,5 @@
 ---
 sidebar_position: 2
-tags: [tools, docusaurus, static-site, tutorial]
 ---
 
 # Docusaurus 建站完整指南

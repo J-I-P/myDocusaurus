@@ -1,6 +1,5 @@
 ---
 sidebar_position: 2
-tags: [frontend, react, hooks, javascript]
 ---
 
 # React Hooks 完整指南

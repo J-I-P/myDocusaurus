@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-tags: [tools, git, version-control]
 ---
 
 # Git 版本控制
