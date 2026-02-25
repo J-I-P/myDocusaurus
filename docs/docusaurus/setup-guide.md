@@ -1,5 +1,8 @@
 ---
 sidebar_position: 2
+title: "Docusaurus 建站完整指南"
+description: "記錄使用 Docusaurus 建立技術部落格和文件網站的完整過程，從初始化到部署的詳細教程。"
+keywords: [docusaurus, 建站, 靜態網站, 技術部落格, 文件網站, react]
 ---
 
 # Docusaurus 建站完整指南

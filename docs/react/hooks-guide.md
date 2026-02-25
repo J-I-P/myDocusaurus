@@ -1,5 +1,8 @@
 ---
 sidebar_position: 2
+title: "React Hooks 完整指南"
+description: "深入了解 React Hooks，掌握現代 React 開發的核心概念和最佳實踐，包含 useState、useEffect、自定義 Hooks 等。"
+keywords: [react, hooks, frontend, javascript, useState, useEffect, 前端開發]
 ---
 
 # React Hooks 完整指南
