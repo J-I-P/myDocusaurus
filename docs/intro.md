@@ -10,19 +10,19 @@ sidebar_position: 1
 
 ### 主要分類
 
-- **[前端開發](./frontend/intro.md)** - React、Vue、JavaScript 相關技術
-- **[後端開發](./backend/intro.md)** - Node.js、Python、資料庫設計
-- **[開發工具](./tools/intro.md)** - Git、VS Code、構建工具配置
-- **[學習筆記](./learning-notes/intro.md)** - 技術學習心得與總結
-- **[專案經驗](./projects/intro.md)** - 實際專案開發記錄
+- **[前端開發](./frontend/intro)** - React、Vue、JavaScript 相關技術
+- **[後端開發](./backend/intro)** - Node.js、Python、資料庫設計
+- **[開發工具](./tools/intro)** - Git、VS Code、構建工具配置
+- **[學習筆記](./learning-notes/intro)** - 技術學習心得與總結
+- **[專案經驗](./projects/intro)** - 實際專案開發記錄
 
 ### 快速開始
 
 如果你是第一次造訪，建議從以下內容開始：
 
-1. **[Docusaurus 建站筆記](./learning-notes/docusaurus-setup.md)** - 記錄本站的建設過程
-2. **[常用工具配置](./tools/environment-setup.md)** - 開發環境設置指南
-3. **[Git 工作流程](./tools/git-workflow.md)** - Git 使用最佳實踐
+1. **[Docusaurus 建站筆記](./learning-notes/docusaurus-setup)** - 記錄本站的建設過程
+2. **[開發工具介紹](./tools/intro)** - 開發環境設置指南
+3. **[Git 工作流程](./tools/git-workflow)** - Git 使用最佳實踐
 
 ### 如何使用
 
