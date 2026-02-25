@@ -2,46 +2,48 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 歡迎來到 ypin.dev 技術文件庫
 
-Let's discover **Docusaurus in less than 5 minutes**.
+這裡是我的個人技術文件庫，記錄了開發過程中的學習筆記、實作經驗和技術心得。
 
-## Getting Started
+## 文件內容
 
-Get started by **creating a new site**.
+### 主要分類
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- **[前端開發](./frontend/intro.md)** - React、Vue、JavaScript 相關技術
+- **[後端開發](./backend/intro.md)** - Node.js、Python、資料庫設計
+- **[開發工具](./tools/intro.md)** - Git、VS Code、構建工具配置
+- **[學習筆記](./learning-notes/intro.md)** - 技術學習心得與總結
+- **[專案經驗](./projects/intro.md)** - 實際專案開發記錄
 
-### What you'll need
+### 快速開始
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+如果你是第一次造訪，建議從以下內容開始：
 
-## Generate a new site
+1. **[Docusaurus 建站筆記](./learning-notes/docusaurus-setup.md)** - 記錄本站的建設過程
+2. **[常用工具配置](./tools/environment-setup.md)** - 開發環境設置指南
+3. **[Git 工作流程](./tools/git-workflow.md)** - Git 使用最佳實踐
 
-Generate a new Docusaurus site using the **classic template**.
+### 如何使用
 
-The classic template will automatically be added to your project after you run the command:
+- 使用左側導覽列瀏覽不同分類的內容
+- 每篇文章都包含實際的程式碼範例和操作步驟
+- 可以透過右上角的搜尋功能快速找到相關內容
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## 文件特色
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- **實用導向** - 所有內容都來自實際開發經驗
+- **詳細記錄** - 包含完整的步驟和常見問題解決方案
+- **持續更新** - 隨著技術學習不斷補充新內容
+- **中文友好** - 主要使用中文撰寫，便於理解和搜尋
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## 貢獻與反饋
 
-## Start your site
+如果你發現任何錯誤或有改進建議，歡迎：
 
-Run the development server:
+- 在 [GitHub Issues](https://github.com/J-I-P/Blursday/issues) 提出建議
+- 通過 [部落格文章](../blog) 了解更多技術心得
 
-```bash
-cd my-website
-npm run start
-```
+---
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+*最後更新：2026-02-25*
